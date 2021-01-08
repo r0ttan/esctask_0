@@ -1,3 +1,6 @@
+I made this script as a brain workout task for my kids. It's used together with a box, closed with a three digit combination padlock. By pushing the right buttons, the correct lock code will be revealed. 
+TODO: Add other tasks than just button presses like tilting, shaking, turning to a specific compass direction, heating/cooling, expose to light.
+
 
 > Open this page at [https://r0ttan.github.io/esctask_0/](https://r0ttan.github.io/esctask_0/)
 
